@@ -1,0 +1,405 @@
+{
+	"abstracts":[
+		
+		{
+			"idAbstract":0,
+			"Title":"An investigation of software engineering curricula",
+			"fullAbstract":"We adapted a survey instrument developed by Timothy Lethbridge to assess the extent to which the education delivered by four UK universities matches the requirements of the software industry. We propose a survey methodology that we believe addresses the research question more appropriately than the one used by Lethbridge. In particular, we suggest that restricting the scope of the survey to address the question of whether the curricula for a specific university addressed the needs of its own students, allowed us to identify an appropriate target population. However, our own survey suffered from several problems. In particular the questions used in the survey are not ideal, and the response rate was poor.\n\nAlthough the poor response rate reduces the value of our results, our survey appears to confirm several of Lethbridge's observations with respect to the over-emphasis of mathematical topics and the under-emphasis on business topics. We also have a close agreement with respect to the relative importance of different software engineering topics. However the set of topics, that we found were taught far less than their importance would suggest, were quite different from the topics identified by Lethbridge.",
+			"classification":"Included",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"AEM135136"
+		},
+		{
+			"idAbstract":1,
+			"Title":"What makes a great software engineer",
+			"fullAbstract":"Good software engineers are essential to the creation of good software. However, today, we lack a holistic, contextual, and real-world understanding of software engineering expertise. In this dissertation, we address this gap by investigating the thesis: \u201cExperts involved in the creation of software view software engineering expertise as holistically encompassing internal personality attributes, attributes regarding engagement with others, in addition to technical capabilities in designing and writing code. Furthermore, the ability to make good decisions (e.g. choosing what software to write and how to write), which has not yet been articulated by previous research studies, is also critically important. The key aspects of being a great software engineer are: writing good code, adjusting behaviors to account for future values and costs, practicing informed decision-making, avoiding making others\u2019 jobs harder, and learning continuously.\u201d We interview 59 expert Microsoft software engineers to inductively understand what software engineering expertise entailed. We survey 1,926 more expert Microsoft software engineers to understand the relative importance of the 45 attributes of expertise derived from interviews, as well as to understand the influence of context on ratings. Finally, we interview 46 expert non-software-engineers who have collaborated with software engineers to understand their perspectives. We collectively consider all our data to answer the question: what makes a great software engineer?",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"EME135136"
+		},
+		{
+			"idAbstract":2,
+			"Title":"Assessing student learning in software engineering",
+			"fullAbstract":"Program assessment plays a key role in measuring student learning and improving the program. Assessing programs is an iterative and incremental process that consists of a series of activities conducted by stakeholders such as faculty members, students and alumni. These activities include defining learning outcomes, developing assessment methods and rubrics, conducting assessment, analyzing assessment results, and recommending actions for change. Over two years, we, as the software engineering group in the Computer Science Department, assessed four student learning outcomes relating software engineering. In this paper, we describe our assessment activities for two learning outcomes: 1) Demonstrate an understanding of the principles and practices for software design and development; 2) Be able to apply the principles and practices for software design and development to real world problems.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"HAG5374"
+		},
+		{
+			"idAbstract":3,
+			"Title":"Formal Competence-based Assessment: on closing the Gap between Academia and Industry",
+			"fullAbstract":"For many years, we have observed industry great efforts in defining higher workplace productivity. Mostly, these efforts are exploring the field with highlighting industrial expectations and issues. However, until the appropriate selection of the competent candidates, this remains far from being realistic. From this standpoint and recognizing the inadequacy of current traditional knowledge-based assessment systems in higher education to achieve performance visibility, we think we need to rethink how we design new assessment models that can respond to the corporate requirements of the 21st century and mirror the learners' competences. This concern has not been sufficiently investigated and only a minority provided some efforts to grant the fundamental models to assess Learners based on the standard required competences. Thus, the main output of this work is a semantic model and a framework specification for competence-based assessment to support the formal and informal learning competences visibility.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"LEE135913"
+		},
+		{
+			"idAbstract":4,
+			"Title":"A survey of the relevance of computer science and software engineering education",
+			"fullAbstract":"We describe a study of 168 software professionals to determine how relevant their education has been to their careers. Starting with a list of 57 topics, we asked the participants to indicate how much they learned in university, how much they know now, how useful the material has been and whether they would like to learn more. We conclude from the results that certain software engineering topics should be given more emphasis, while the emphasis on certain mathematics topics should be changed.",
+			"classification":"Included",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"AEM135912"
+		},
+		{
+			"idAbstract":5,
+			"Title":"An Evaluation of Relevance of Computing curricula to Industry Needs",
+			"fullAbstract":"The research documented in this paper attempted to answer the question of how relevant the content of the Computing courses offered within programs of the Computing Department at the National University of Samoa (NUS) were to meet the needs of industry and the workforce. The RINCCII study which was conducted in 2013 to 2014, surveyed 13 institutions and 19 graduates from the Computing programs. Findings from the survey indicated that the current course offerings within the Computing department are relevant to the needs of industry and the workplace. However there are aspects or topics which need inclusion or better coverage. The study also recommended regular surveys to gauge relevance of curricula to needs of industry",
+			"classification":"Included",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"EOA13952"
+		},
+		{
+			"idAbstract":6,
+			"Title":"Analyzing the importance of teaching about testing from alumni survey data",
+			"fullAbstract":"The Department of Computer Science (IDI) at the Norwegian University of Science and Technology (NTNU), conducted a survey among its master alumni in 2007 and 2011, with the scope to retrieve the educational topics relevant to their field of expertise based on the work experience accumulated after graduation. The results enabled the identification of topics which proved mandatory to learn after graduation, and the two sets of data registered four years apart, provided us with an overview of the trends and a certain shift in the importance of the most favored topics. The data available from this two surveys was analyzed from the perspective of software testing topic and the results of this analysis are presented in this paper. ",
+			"classification":"Included",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"LAL396193"
+		},
+		{
+			"idAbstract":7,
+			"Title":"Desired Skills for Entry Level IS Positions: Identification and Assessment",
+			"fullAbstract":"The present study sheds light on what employers believe to be important hard skills and soft skills for entry-level information systems (IS) positions. Results from a survey of N = 73 U.S.-based and international employers suggest that soft skills are significantly more important than hard skills for entry-level IS positions. The most important hard skills are Microsoft Office, database\/data warehouse\/SQL, and knowledge of security, while the most important soft skills are willingness to learn, critical thinking, and attitude. Employer characteristics (e.g., industry, size, location) do not affect the importance of hard skills and soft skills. Findings of this study are discussed in light of previous research. Results of this study can help to guide universities in IS curriculum development.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"JAJ13613"
+		},
+		{
+			"idAbstract":8,
+			"Title":"Employers' needs for computer science, information technology and software engineering skills among new graduates",
+			"fullAbstract":"Graduates of computer science programs often lack skills that employers desire among software developers. These include, for example, weaknesses in the areas of collaboration, communication, and software testing. Further research can help to refine this list by providing insight into additional skills that are of rising or regional importance. This paper therefore presents a study aimed at uncovering desirable technical and soft skills for graduates of computer science in the Pacific Northwest region of the United States. Interviews of 11 employers, including both managers and recruiters, highlighted the prominent importance of skills related to web development, relational databases, and testing. Additionally, it spotlighted not only widely-recognized soft skills such as those related to collaboration and communication, but additionally on skills tied to personal attributes such as innovating, coping with ambiguity and learning quickly. The results provide insights for what skills and personal attributes to include in a future survey of employers aimed at quantifying the importance of skills on this list.  ",
+			"classification":"Included",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"EAM135913"
+		},
+		{
+			"idAbstract":9,
+			"Title":"Evaluating the gap between the skills and abilities of senior undergraduate computer science students and the expectations of industry",
+			"fullAbstract":"A large emphasis is placed on improving student education. Every year researchers propose new teaching methods and suggest improvements to existing methods. However, recent computer science and software engineering graduates continue to face difficulties when beginning their professional careers. This thesis reports the results of a systematic literature review that examined the knowledge deficiency among graduating students beginning work in the software industry. Following the literature review, interviews with industry managers and surveys of graduating students were undertaken to examine additional knowledge deficiencies among graduating students. The results from the literature review and the additional studies show that students lack proficiency with software development tools, knowledge of software testing, and teamwork and communication skills. The results of this research can be used by both educators and industry managers to identify potential areas of improvement for students and new hires.",
+			"classification":"Included",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"UEU135813"
+		},
+		{
+			"idAbstract":10,
+			"Title":"Identifying technical competences of IT Professionals: the case of software engineers",
+			"fullAbstract":"This article aims to identify technical competency levels relevant to Software Engineering in a spectrum of professional profiles which are found in Spain's main Software Development companies. The research work presents a combination of three initiatives. The first step constitutes a review of the literature related to the characterization of the labor force in the Software Engineering domain. The subsequent step consists of a qualitative study of the practices of a set of organizations, and lastly, this was followed by a quantitative analysis based on investigative surveys administered to a number of representative professionals. The professional career is established from seven consecutive profiles. The pyramidal model for professional careers, identifying one single professional track going from Junior Programmer to IT Director, is still present in the organisations subject to this study. Technical excellence is reached in a determined professional profile, in this case \"D\". From this point onwards, other competencies which are not uniquely characteristic of Software Engineering gain importance, and stimulate professional development towards higher levels.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"UEL135821"
+		},
+		{
+			"idAbstract":11,
+			"Title":"In the know- desired skills for entry-level systems analyst positions",
+			"fullAbstract":"The undergraduate information systems curriculum seeks to prepare students for entry-level information technology positions. In this study, which is part of an ongoing research program aiming to better align the information systems curriculum with employer needs, the desired skills for entry-level systems analyst, business analyst, and project manager positions are identified based on interviews with information technology professionals. As technology continues to change, it is important to understand the changing needs of employers in this area. Based on the interviews, two categories of desired skills can be defined \u2013 soft skills and hard skills. Soft skills are comprised of intrapersonal and interpersonal skills, and hard skills are comprised of domain knowledge and technical skills. A discussion of the findings in light of previous work and directions for future research are provided.",
+			"classification":"Included",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"EIA15862"
+		},
+		{
+			"idAbstract":12,
+			"Title":"Industry expectations of soft skills in IT graduates: a regional survey",
+			"fullAbstract":"Representatives of the Information Technology (IT) industry periodically question the work-readiness of university educated IT graduates. Academics typically interpret such challenges as calls to teach currently fashionable technologies. Strong demand for IT skills in Wellington, New Zealand's capital, during the past few years has resulted in this being a major area of debate. This research sought to get past the competing claims by examining job advertisements, conducting interviews and focus groups research and found that industry representatives are in fact less concerned about technical skills than 'soft' skills needed for team based, customer focused, business environments. Industry tends to seek base-level technical skills and make recruitment decisions on more personal qualities, leaving detailed training to on-the-job. Key soft skills sought by IT employers are identified to help tertiary educators clarify industry priorities.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"JAE13581"
+		},
+		{
+			"idAbstract":13,
+			"Title":"Industry's perception of the relevance of software development education",
+			"fullAbstract":"It is widely acknowledged that there is a shortage of software developers, not only in South Africa, but also worldwide. Despite reports, in mostly quantitative studies, of a gap between the industry needs and software development education, the view the industry has of the new graduates and the problems, challenges and solutions in respect of software development education has not been explored in detail. This article reports on a mixed methods study of the relevance of software development education from the perspective of the industry. The analysis reveals some interesting views held by the industry, as well as by the different generations on their new recruits and the problems and challenges that are faced. The following solutions to the problems are suggested: teamwork; projects and experience; work-integrated-learning and mentoring; technical and soft skills; keeping up to date; career guidance; introspection; and generational awareness.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"YEU135813"
+		},
+		{
+			"idAbstract":14,
+			"Title":"Investigating the skill gap between graduating students and industry expectations",
+			"fullAbstract":"Graduating computer science and software engineering students do not always possess the necessary skills, abilities, or knowledge when beginning their careers in the software industry. The lack of these skills and abilities can limit the productivity of newly hired, recent graduates, or even prevent them from gaining employment. This paper presents the results of an empirical study where twenty-three managers and hiring personnel from various software companies in the United States and Europe were interviewed. Participants were asked about areas where recent graduates frequently struggled when beginning employment at their companies and which skill deficiencies might prevent a recent graduate from being hired. The results of this study indicate that recent graduates struggle with using configuration management systems (and other software tools), effectively communicating with co-workers and customers, producing unit tests for their code, and other skills or abilities. The results also indicate that a lack of project experience and problem solving abilities are the most commonly cited issues preventing students from gaining employment. This research is intended to assist educators in identifying areas where students may not measure up the expectations of industry companies and in improving the curriculum at their universities to better prepare them for their future careers.",
+			"classification":"Included",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"HAE69531"
+		},
+		{
+			"idAbstract":15,
+			"Title":"IT Program Curriculum Recommendations Based on a Survey of Knowledge and Skill Requirements for Entry-Level IT Workers",
+			"fullAbstract":"This paper provides an updated view of the importance of various skills and traits for entry-level IT workers as perceived by the IT industry based on a web-based survey administered to IT managers nationwide. The survey consists of 47 skills and traits that include personal and interpersonal skills, as well as technical skills. This study finds that the top 12 skills and traits are personal and interpersonal skills with honesty and integrity ranked most highly. The top 5 technical skills are operating systems, security, hardware, networking, and database, which have been part of the IT core for many years. The noticeable change in technical skills is the low ranking of programming. Based on the analysis of the survey, several ideas for curriculum recommendations for IT-related programs are provided. ",
+			"classification":"Included",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"JAN69742"
+		},
+		{
+			"idAbstract":16,
+			"Title":"Knowledge and Skill Requirements for Entry-Level Information Technology Workers- do employers in the it industry view these differently than employers in other industries",
+			"fullAbstract":"In order to determine how to prepare graduates in IT-related degree programs for entry-level\njobs, employers in various industries were surveyed to determine whether there are differences in\nskills and knowledge requirements across industries. The results of the survey are reported and\nanalyzed. Based on the findings of the survey, advising and curriculum recommendations are\nmade.",
+			"classification":"Included",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"OUY35811"
+		},
+		{
+			"idAbstract":17,
+			"Title":"Knowledge and skill requirements for IT graduates",
+			"fullAbstract":"This study examines the knowledge and skills required of entry-level IT workers as perceived by nearly 600 IT managers and workers from across the United States. In keeping with previous studies, the findings suggest that personal and interpersonal skills are the top rated skills with technical skills following closely behind. Organizational knowledge, particularly knowledge of primary business functions, is important, but less important for entry-level works than technical skills. The findings also suggest that possessing relevant work experience is more important for graduates seeking entry-level positions than a having a high GPA. Implications of the findings for curriculum design, student advisement and job placement are discussed.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"MEL163932"
+		},
+		{
+			"idAbstract":18,
+			"Title":"Knowledge and Skills Requirements for Software Developer Students",
+			"fullAbstract":"It is widely acknowledged that there is a shortage of software developers, not only in South Africa, but also worldwide. Despite reports on a gap between industry needs and software education, the gap has mostly been explored in quantitative studies. This paper reports on the qualitative data of a mixed method study of the perceptions of professional software developers regarding what topics they learned from their formal education and the importance of these topics to their actual work. The analysis suggests that there is a gap between industry\u2019s needs and software development education and the following recommendations are made: 1) Real-life projects must be included in students\u2019 education; 2) Soft skills and business skills must be included in curricula; 3) Universities must keep the curriculum up to date; 4) Software development education must be made accessible to a diverse range of students.",
+			"classification":"Included",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"IES136813"
+		},
+		{
+			"idAbstract":19,
+			"Title":"Missed Expectations: Where CS Students Fall Short in the Software Industry",
+			"fullAbstract":"Graduating computer science students do not always possess the necessary knowledge to succeed in their careers after graduation. Interviews with twenty-three managers and hiring personnel at different companies in the software development industry highlight the struggles that recent graduates face when first starting at those companies. Recent graduates lack essential skills in different areas to pass an interview. Descriptions are provided about these different areas along with recommendations for educators, industry managers, and recent graduates.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"KAN63916"
+		},
+		{
+			"idAbstract":20,
+			"Title":"Priorities for the education and training of software engineers",
+			"fullAbstract":"We present the complete results of our 1998 survey of software practitioners. In this survey we asked over 200 software de- velopers and managers from around the world what they thought about 75 educational topics. For each topic, we asked them how  much they had learned about it in their formal education, how much they know about it now and how important the topic has been  in their career. The objective of the survey was to provide data that can be used to improve the education and training of infor- mation technology workers. The results suggest that some widely taught topics perhaps should be taught less, while coverage of  other topics should be increased.",
+			"classification":"Included",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"MEN681386"
+		},
+		{
+			"idAbstract":21,
+			"Title":"Reducing the gap between software engineering curricula and software industry in Jordan",
+			"fullAbstract":"Nowadays software is taking a very important role in almost all aspects of our daily lives which gave great importance to the study field of Software Engineering. However, most of the current Software Engineering graduates in Jordan lack the required knowledge and skills to join software industry because of many reasons. This research investigates these reasons by firstly analyzing more than 1000 software job listings in Jordanian and Gulf area e-recruitment services in order to discover the skills and knowledge areas that are mostly required by software industry in Jordan and the Gulf area, and secondly comparing these knowledge areas and skills with those provided by the Software Engineering curricula at the Jordanian Universities. The awareness of the Software Engineering students and academic staff of the concluded mostly required knowledge areas and skills is measured using two questionnaires. Recommendations to decrease the gap between Software Engineering academia and industry had also been taken from a sample of software companies\u2019 manager using a third questionnaire. The results of this research revealed that many important skills such as Web applications development are very poorly covered by Software engineering curricula and that many Software engineering students and academic staffs are not aware about many of the mostly needed skills to join industry.",
+			"classification":"Included",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"LAL136386"
+		},
+		{
+			"idAbstract":22,
+			"Title":"Requirements Engineering: a close look at industry needs and a model curricula",
+			"fullAbstract":"Research endeavours in software development have found that failures and deficiencies of software systems are often rooted in the requirements activities undertaken. One possible cause for poor requirements activities is the appropriateness of the education of those engaged with the requirements component of software development. This education is largely based on model curricula used as guidelines. This paper summarises the results of a study of the requirements component of model curricula in the disciplines of computer science, information systems and software engineering. The requirements components are compared to the opinions of a small but representative group of practitioners, assembled through personal interviews. The results reveal that the model curricula address to a high degree the expectations practitioners have of the formal education in preparing for requirements activities. However, the results also show that practitioners see shortcomings in formal education, particularly with respect to more generic skills, such as communication and team skills. ",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"JAE369368"
+		},
+		{
+			"idAbstract":23,
+			"Title":"Software: University Courses versus Workplace Practice",
+			"fullAbstract":"There is a shortage of software developers with the right skills and knowledge, not only in South Africa but worldwide. Despite reports of a gap between industry needs and software education, the gap has mostly been explored in developed countries and in quantitative studies. This paper reports on a mixed methods study of the perceptions of professional software developers regarding what topics they learned from their formal education and the importance of these topics to their actual work. The analysis suggests that there is a gap between software development education and workplace practice and recommendations for software development education are made.",
+			"classification":"Included",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"LOL358119"
+		},
+		{
+			"idAbstract":24,
+			"Title":"Struggles of New College Graduates in their First Software Development Job",
+			"fullAbstract":"How do new college graduates experience their first software development jobs? In what ways are they prepared by their educational experiences, and in what ways do they struggle to be  productive in their new positions? We report on a \u201cfly-on-the- wall\u201d observational study of eight recent college graduates in  their first six months of a software development position at Microsoft Corporation. After a total of 85 hours of on-the-job observation, we report on the common abilities evidenced by new software developers including how to program, how to write design specifications, and evidence of persistence strategies for problem-solving. We also classify some of the common ways new software developers were observed getting stuck: communication, collaboration, technical, cognition, and orientation. We report on some common misconceptions of new developers which often frustrate them and hinder them in their jobs, and conclude with recommendations to align Computer Science curricula with the observed needs of new professional developers.",
+			"classification":"Included",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"EJA36183"
+		},
+		{
+			"idAbstract":25,
+			"Title":"The Relevance of Software Development Education for Students",
+			"fullAbstract":"Despite a widely-acknowledged shortage of software  developers, and reports of a gap between industry needs and soft- ware education, the possible gap between students' needs and soft- ware development education has not been explored in detail. In  their university education, students want to take courses and carry out projects that clearly relate to their lives and their goals. This paper reports on a quantitative study of 297 software development  students. The analysis of the results suggests that software devel- opment education has a predominantly social relevance to students  and also has moderate personal and professional relevance. The following approaches are recommended to improve students' views of the relevance of software development education: use various learning environments; pay special attention to female students, students who did not have IT as a school subject, and students who rate their own academic performance as low; update educators on the latest developments; design programs to appeal to students and to meet societal demands.",
+			"classification":"Included",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"MEA136813"
+		},
+		{
+			"idAbstract":26,
+			"Title":"The relevance of software education: A survey and some recommendations",
+			"fullAbstract":"We summarize the results of a survey of software practitioners in which we asked about the relevance of their education. We analyze the data and highlight potential changes to computer science or software engineering curricula, based on mismatches between the extent to which the topic is taught and its importance in the careers of the participants. We also present some advice to companies regarding topics in which they should train employees; we compare this advice to a list of skills that employers have indicated they wish employees to possess.",
+			"classification":"Included",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"EMA36813"
+		},
+		{
+			"idAbstract":27,
+			"Title":"What the job market wants from requirements engineers?: an empirical analysis of online job ads from the Netherlands",
+			"fullAbstract":"Recently, the requirements engineering (RE) community recognized the increasing need for understanding how industry perceives the jobs of requirements engineers and their most important qualifications. This study contributes to the community\u2019s research effort on this topic. Based on an analysis of RE job ads in 2015 from the Netherlands\u2019 three most popular online IT-job portals, we identified those task and skill related qualifications that employers demand from RE job seekers. We found that the job titles used in industry for the specialists that the RE community calls \u2018requirements engineers\u2019, are \u2018Product Owner\u2019 and \u2018Analyst\u2019, be it Information Analyst, Application Analyst, or Data Analyst. Those professionals supposed to perform RE tasks also take responsibility for additional tasks including quality assurance, realization and deployment, and project management. The most in-demand skills are soft skills: proficiency in Dutch and English, plus communication and analytical skills. RE is perceived as an occupation for experts, with 23% of all job ads asking explicitly for RE experience and 63% asking for experience similar to RE.",
+			"classification":"Included",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"MR5342"
+		},
+		{
+			"idAbstract":28,
+			"Title":"Achieving industrial relevance in software engineering education",
+			"fullAbstract":"This paper presents a collection of experience related to success factors in graduate and postgraduate education. The experiences are mainly concerned with how to make the education relevant from an industrial viewpoint. This is emphasized as a key issue in software engineering education and research, since the main objective is to give the students a good basis for large-scale software development in an industrial environment. The presentation is divided into experiences at the graduate and postgraduate levels respectively. For each level a number of strategies to achieve industrial relevance are presented. These strategies have been successful, but it is concluded that more can be done regarding industrial collaboration in the planning and conduction of experiments and case studies. Another interesting strategy for the future is a special postgraduate programme for people employed in industry.",
+			"classification":"Excluded",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"AME24125"
+		},
+		{
+			"idAbstract":29,
+			"Title":"Analysis of Skills Requirement for Entry-Level Programmer\/ Analysts in Fortune 500 Corporations",
+			"fullAbstract":"This paper presents the most up-to-date skill requirements for programmer\/analyst, one of the most demanded entry-level job titles in the Information Systems (IS) field. In the past, several researchers studied job skills for IS professionals, but few have focused especially on \"programmer\/analyst.\" The authors conducted an extensive empirical study on programmer\/analyst skill requirements by collecting and analyzing 837 job ads posted on Fortune 500 corporate websites for three years. The results indicate that the programmer\/analysts in the Fortune 500 are expected to fulfill a combination of roles from computer program writers to technical experts as well as businessmen. The results of this study are discussed in terms of their implications for the IS 2002 curriculum model.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"OEO1693"
+		},
+		{
+			"idAbstract":30,
+			"Title":"An industry\/university collaboration to upgrade software engineering knowledge and skills in industry",
+			"fullAbstract":"This paper describes an ongoing collaboration between Boeing Australia Limited and the University of Queensland to develop and deliver an introductory course on software engineering. The aims of the course are to provide a common understanding of the nature of software engineering for all Boeing Australia's engineering staff, and to ensure they understand the practices used throughout the company. The course is designed so that it can be presented to people with varying backgrounds, such as recent software engineering graduates, systems engineers, quality assurance personnel, etc. The paper describes the structure and content of the course, and the evaluation techniques used to collect feedback from the participants and the corresponding results. The immediate feedback on the course indicates that it has been well received by the participants, but also indicates a need for more advanced courses in specific areas. The long-term feedback from participants is less positive, and the long-term feedback from the managers of the course participants indicates a need to expand on the coverage of the Boeing-specific processes and methods.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"MEA6426"
+		},
+		{
+			"idAbstract":31,
+			"Title":"Analyzing the strength of undergraduate misconceptions about software engineering.",
+			"fullAbstract":"While many computer science students plan to pursue careers as software engineers, research shows that most traditional undergraduate CS programs fail to prepare students for the realities of programming in industry. Many misconceptions that are interfering with the transition to industry are belief-oriented, not skill-oriented, in nature, so traditional misconception assessments will not yield a deep understanding of them. In this paper we present a novel methodology that shows interactions among the misconceptions based on a forced choice paradigm and reveals the relative strength of the misconceptions. By analyzing students' repeated responses and response times, we construct a model of participants' misconceptions. We used this methodology to assess CS undergraduates at Carnegie Mellon University and compared their results to those from industry practitioners at several highly regarded companies. The results show that the students have misconceptions about process and teamwork. Surprisingly, we found that several misconceptions are correlated with elective courses that we expected to weaken misconceptions about software engineering but instead appeared to strengthen them.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"FAE39613"
+		},
+		{
+			"idAbstract":32,
+			"Title":"Assessing alignment between information technology educational opportunities, professional requirements, and industry demands",
+			"fullAbstract":"Information technology (IT) and computing are growing fields, offering far more job opportunities than applicants. Yet, little data are available to indicate how course content, employer needs, and additional learning opportunities work together the prepare graduates to enter the IT workforce. To understand the extent to which learners were prepared to for these highly technical careers, we used text analysis to examine the extent to which course syllabi, job postings, internship postings, and industry certifications from information technology preparation programs at state college and two universities commonly reflected national IT curriculum knowledge areas. Integrated data suggested that while the two-year and four-year programs imparted key technical skills, to qualify employers sought applied, or Bsoft,^ skills such as critical thinking, problem solving, teamwork, and written and verbal communication. These soft skills were more difficult to detect as learning outcomes, but the determination of the extent to which the examined programs foster these skills presents a fertile area for subsequent research.",
+			"classification":"Excluded",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"IBI36166"
+		},
+		{
+			"idAbstract":33,
+			"Title":"Collaborating with industry: strategies for an undergraduate software engineering program",
+			"fullAbstract":"Software engineering is prominent in the collection of undergraduate disciplines that benefit most from experiential learning. Despite an exhaustive classroom and laboratory curriculum, the obtainment of program outcomes cannot be achieved without the opportunity for the student to be exposed to commercial grade software development. Even the most complex academic software engineering exercise falls short in capturing the project dynamics of building a real world software application. The Software Engineering Department at the Rochester Institute of Technology initiated the first undergraduate degree program of its kind in the United States in 1996, graduating its first class in 2001 and was among the first to receive ABET accreditation in 2002. To address the outcomes of the program and expectations of industry, the Software Engineering Department has developed a set of related strategies that provides students and faculty the opportunity to actively collaborate with the commercial software development sector. This paper will discuss how the department has positioned itself to meet the challenges of collaborating with industry by incorporating cooperative education, commercially sponsored senior capstone projects and the development of research partnerships. ",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"OEA36136"
+		},
+		{
+			"idAbstract":34,
+			"Title":"Computer science students making games: a study on skill gaps and requirement",
+			"fullAbstract":"Computer science (CS) is a field of practical and scientific approach on computation and applications. Consequently, the CS students should be able to adjust to develop different types of software applications. However, even though video games are one type of software, they also impose additional requirements for the developers. In this paper we present the results of our qualitative studies on how prepared CS students are to function as game developers. The paper assesses the knowledge gaps between students majoring in computer science and game developer needs in two ways; a longitudinal study on a game development course and a focused case study on developing a game. Based on our results there are differences in communication and planning approaches between the CS students and game developers, and skill needs for game development content on a traditional computer science course curricula.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"QWE5193"
+		},
+		{
+			"idAbstract":35,
+			"Title":"Defining the expectation gap: a comparison of industry needs and existing game development curriculum",
+			"fullAbstract":"When developing a game curriculum, one of several key areas to consider is the type of skills needed by the game industry. The purpose of this quantitative survey research is to compare the hiring needs of industry for recent college graduates seeking game developer positions against game development curriculum currently available at post-secondary institutions. One survey was given to industry participants and a similar survey was given to academic participants. Four major categories, abilities, technical skills, supporting knowledge areas, and contextual fluency, each had specific subcategories that were rated by both industry and academia. A t-test of independent means was then used to analyze to determine if there is an expectation gap between the game industry needs and academic program curriculum. This paper details the results of the surveys and provides a limited discussion on how these results might impact game developer curriculum.",
+			"classification":"Excluded",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"IES93813"
+		},
+		{
+			"idAbstract":36,
+			"Title":"Developing a software engineering curriculum for the emerging software industry in China",
+			"fullAbstract":"China currently has one of the world's fastest growing software industries. However the demand for skilled software engineers is currently outstripping supply. Educational institutes are the primary provider of software engineers. Not only can China's educational institutes not meet the demands of software engineers in terms of quantity, the quality of software engineering graduates at the moment is considered insufficient. The need for educational institutes to be more aware of industry requirements for software engineering graduates and to tailor the curriculum and teaching and learning practice to better fulfil these has been recognized as critical to China's success. To assist with this the Emersion project was established in 2003 to attempt to exchange knowledge and expertise between the EU and China with the goal of developing an industry-oriented education model for software engineering in China. In this paper, we describe our experiences in developing the curriculum which is at the heart of this model and which is based on published best practice and experience of industry and academia in the EU and China",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"POE1313"
+		},
+		{
+			"idAbstract":37,
+			"Title":"Educational Needs as Perceived by IS and End-User Personnel: A Survey of Knowledge and Skill Requirements",
+			"fullAbstract":"One of the fundamental issues inherent to both practice and academia emanates from the need to know what knowledge and skills personnel must possess to successfully perform their jobs. This article addresses this issue by performing an educational needs assessment, one that considers the deficiencies of both IS and end-user personnel. To this end, an instrument has been developed, tested, and completed by 275 employees within eight different organizations. The findings of this study suggest that among six different knowledge and skill areas, both IS and end-user personnel are most deficient in the area of \u201cgeneral IS knowledge\u201d (e.g., IS policies and plans, fit between IS and organization, etc.). In addition, IS personnel appear to be in need of more \u201corganizational knowledge\u201d (e.g., organizational goals and objectives, critical success factors, etc.). End users, on the other hand, seem to require more IS-related skills (e.g., data access, use of software packages, etc.). The implications of these findings for practitioners and academicians focus on finding ways to improve the education and training programs currently in place.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"OEI15813"
+		},
+		{
+			"idAbstract":38,
+			"Title":"Essence: A framework to help bridge the gap between software engineering education and industry needs",
+			"fullAbstract":"Given the time limit, software engineering courses in universities can only emphasize a particular development approach or method; therefore, it is challenging to prepare graduates to face the diverse range of approaches and methods used by industry. One of the issues software engineering education faces is the lack of a framework to understand and compare the similarities and differences among diverse practices used by different companies versus what students learn at school. Software Engineering Methods and Theory (SEMAT) is a new international initiative that bridges the gap among industry, education and research. SEMAT latest result is the submission to OMG standard, namely the Essence - Kernel and Language for Software Engineering. Instead of teaching diverse range of software engineering development methods, Essence provides a novel way of thinking of the different software development methods and approaches. This paper discusses the value of Essence to software engineering education and the preliminary feedback from university professors and lecturers.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"MEL13591"
+		},
+		{
+			"idAbstract":39,
+			"Title":"Identifying essential competencies of software engineers",
+			"fullAbstract":"The knowledge and skills of software engineers are perhaps the most important factors in determining the success of software development. Thus, we seek to identify the professional competencies that are most essential. In the first phase of our research, we use the Critical Incident Interview technique to identify essential competencies. The Critical Incident Interview technique is a rigorous method for determining critical job requirements from structured interviews with workers. We use this technique in an in-depth review of 20 professional software engineers employed by a ma jor computer firm. Our review includes an evaluation of biographical and Critical Incidence Interview data for 10 exceptional and 10 non-exceptional sub jects. We also analyze competencies identified by software managers. We identify 38 essential competencies of software engineers. Differences between exceptional and non-exceptional sub jects were not expected in this first phase of our research. We studied exceptional and non-exceptional engineers to ensure that all competencies are uncovered. ",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"AME13951"
+		},
+		{
+			"idAbstract":40,
+			"Title":"Knowledge and Skill Requirements for Entry-Level Information Technology Workers: A Comparison of Industry and Academia",
+			"fullAbstract":"Enrollments in Information Technology (IT)-related academic programs have declined significantly in recent years. Paradoxically, the U.S. Department of Labor predicts that the demand for IT professionals will grow much faster than the average for all occupations through the year 2016. To meet increasing demand, IT-related academic programs must attract more students and produce graduates who possess the technical, interpersonal and organizational knowledge and skills required of entry-level IT workers. The purpose of this study is to determine whether the importance of various skills for entry-level IT workers is perceived differently by faculty in academia than it is by IT managers in industry. The results reported in this paper are based upon a survey of the knowledge and skills required of entry-level IT workers as perceived by 350 IT managers and 78 faculty teaching in IT-related academic programs. Finally, implications of the survey results for faculty teaching in IT-related disciplines and for ongoing IT-related curriculum development, as well as implications for IT managers, are discussed.",
+			"classification":"Excluded",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"BOA13592"
+		},
+		{
+			"idAbstract":41,
+			"Title":"Knowledge and Skill Requirements for Entry-Level IT Workers: A Longitudinal Study",
+			"fullAbstract":"This paper provides an updated view of the importance of various skills and traits for entry-level IT workers, as perceived by the IT industry, based on a web-based survey administered to IT managers nationwide. The work presented in this paper is na extension of two previous studies based on a survey conducted in 2006. A new survey was conducted in 2010 that consisted of 48 skills and traits including personal and interpersonal skills, as well as technical skills. This study finds that the top 12 skills and traits for entry-level IT workers are personal and interpersonal skills with honesty and integrity ranked most highly. The top 5 technical skills have not changed considerably in the past five years. They are operating systems, security, hardware, networking, and database, which have been part of the IT core curriculum for many years. Based on the analysis of the survey, several recommendations for curricula for IT-related degree programs are provided.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"IEL61369"
+		},
+		{
+			"idAbstract":42,
+			"Title":"Learn from practice: defining an alternative model for software engineering education in Mexican universities for reducing the breach between industry and \u2026",
+			"fullAbstract":"Nowadays, advancements in education, research and software development are increasing in a considerable way, but each part is doing it independently. This problem generates that software enterprises spend a lot of money in the formation of young personnel, because Universities do not include in their curriculums topics related to Industry necessities. At this moment, there is an increasing interest at global level focused on developing alternative educative models oriented to Software Engineering and improving the acquisition of experiences and abilities within real projects. Brazil, India, United States of America, Japan, Australia and Thailand are creating initiatives in this context. The results of their research will enable them to find future solutions for fomenting and improving the software industry. This paper aims to show the basis of a dynamic model to align the objectives and necessities of Mexican software industry with the real offer from Universities who teach the discipline. This will make sure that industry gets the suitable talent (appropriate skills and capabilities) and students get suitable opportunities to work within the software industry.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"OEO59138"
+		},
+		{
+			"idAbstract":43,
+			"Title":"Meeting graduate employability needs through open-source collaboration with industry",
+			"fullAbstract":"This paper describes the development and delivery of a course, in close collaboration with industry, over a ten-year period. We describe the details of this collaboration, which aims to equip students with collaborative software development experience, incorporating open source, Enterprise Middleware technologies and industry best practices. In presenting our case study we share valuable insights, into the challenges and opportunities, for all parties involved. We present the reflections of all stakeholders, including; the course leader, the industrial partner, lab demonstrators, and students. We also present the results of our investigations to track the employment of our graduates over the last five years, identifying that all students who responded are employed within relevant positions or undertaking further study. Based on our successful delivery of the course, in this paper we make all tools and teaching materials available to the open source community, for delivery at other institutions. We emphasise the importance of the continued involvement of industry partners to inform pedagogical practices within Computer Science.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"MOM19381"
+		},
+		{
+			"idAbstract":44,
+			"Title":"Realities and Ideals of Competencies: The Perceptual Gaps between Companies and University Students",
+			"fullAbstract":"In this paper, we examine the gap between the competencies that companies seek in university students and the requested competencies from companies that university students expect, through the distribution of a questionnaire to Japanese companies and university students. We find that a gap exists between companies' and students' evaluations of students' competencies. Surprisingly, the companies' and students' stated priorities for competencies are seriously different. Our results show that companies highly value versatile personal or interior competencies as being essential for employees. Conversely, students highly value skills and knowledge as essential competencies for work. These findings contribute toward developing appropriate curricula for universities.",
+			"classification":"Excluded",
+			"attentionTest":"Neither agree nor disagree",
+			"taskCode":"EME3961396"
+		},
+		{
+			"idAbstract":45,
+			"Title":"Stakeholder-led curriculum redesign",
+			"fullAbstract":"The University of Tasmania is undertaking a 'green-fields' replacement of its existing undergraduate ICT offerings. As part of the process over thirty industry members and educators were interviewed to gain their advice on what should be included in the only bachelors level ICT degree offered in Tasmania from 2014. This paper reports on lessons learned in ICT curriculum review and in the identification of desired graduate skills and knowledge for future employment. With a strong trend towards utilising outsourcing and off-shoring for software and system development, industry members indicated that there is no room in the ICT industry of the future for personnel who cannot relate to customers and who lack the business acumen to be able to undertake analysis at the commencement of a project or integration at its conclusion. The review identified strong demand for graduates to be ICT professionals with generic professional skills (such as communication and teamwork) along with other non-technical skills (such as business analysis, sourcing and integration) in addition to the traditional domain skills (including programming and databases). Employers desired graduates with a broad range of ICT knowledge but with a depth of competency in at least one ICT technical area. A summary of the outcomes, including likely degree content, is provided.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"LOL315815"
+		},
+		{
+			"idAbstract":46,
+			"Title":"Strategies for industrial relevance in software engineering education",
+			"fullAbstract":"This paper presents a collection of experiences related to success factors in graduate and postgraduate education. The experiences are mainly concerned with how to make the education relevant from an industrial viewpoint. This is emphasized as a key issue in software engineering education and research, as the main objective is to give the students a good basis for large-scale software development in an industrial environment. The presentation is divided into experiences at the graduate and postgraduate levels, respectively. For each level a number of strategies to achieve industrial relevance are presented. On the graduate level a course in large-scale software development is described to exemplify how industrial relevance can be achieved on the graduate level. The strategies on the postgraduate level have been successful, but it is concluded that more can be done regarding industrial collaboration in the planning and conduction of experiments and case studies. Another interesting strategy for the future is a special postgraduate program for people employed in industry.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat Agree",
+			"taskCode":"LEO51361"
+		},
+		{
+			"idAbstract":47,
+			"Title":"The Ability to Provide Well Qualified Software Engineering Graduates to the Software Industry Case Study: Jordanian Universities",
+			"fullAbstract":"The new trend in software engineering research is how to provide software engineering industry with well qualified software engineering graduates; this trend has been appeared because there is an obvious difference between the industry needs and the actual supply from software engineering departments. This paper will introduce briefly software engineering and software development process then it will mention the main properties of software engineering, A brief discussion about software engineering graduates and educators will be presented in this paper after that it will determines whether there are well qualified software engineering graduates in the Jordanian universities. Finally it will discuss a proposed model designed by the researcher to increase software engineering graduates\u2019 quality, qualification and productivity in Jordanian universities. The result of the study (76) respondents of academic staff of software engineering department indicated that unfortunately, there are no well qualified software engineering graduates in the Jordanian universities. Another indication was that the designed model would have a significant impact to increase the quality, qualification and productivity of software engineering graduates in Jordanian universities. ",
+			"classification":"Excluded",
+			"attentionTest":"Strongly Agree",
+			"taskCode":"EOM13592"
+		},
+		{
+			"idAbstract":48,
+			"Title":"University\/industry collaboration in developing a simulation-based software project management training course",
+			"fullAbstract":"A significant factor in the success of a software project is the management skill of the project leader. The ability to effectively plan and track a software project utilizing appropriate techniques and tools requires training, mentoring, and experience. This paper describes a collaborative effort between Arizona State University and Motorola University to develop a software project management training course. Although many such courses exist in academia and industry, this course incorporates a system dynamics simulator of the software development process. The use of this simulator to train future software project managers is analogous to the use of a flight simulator to train pilots. This paper describes the software project simulator and how it is utilized in the software project management training course. Feedback from the training course participants is also shared and discussed.",
+			"classification":"Excluded",
+			"attentionTest":"Somewhat disagree",
+			"taskCode":"QOE135813"
+		},
+		{
+			"idAbstract":49,
+			"Title":"What Do Students Think They (Should) Learn at College",
+			"fullAbstract":"Building on the evidence that administratively determined outcomes for cognitive growth provide only a partial understanding of what is actually learned at the university level, this study puts forward a method to increase the use of student perceptions to determine the quality of a university education. To show the complexity and value of seeking to understand students\u2019 learning expectations, over 80 juniors and seniors at a state university participated in a survey wherein they identified five things that everyone should learn at college, and evaluated and described how those expectations related to their courses, faculty, and grades. The students' responses show that they have a wide range of learning objectives that fall unequally under three categories: Academic Content, Career\/Academic Skills, and Life Skills. Student responses suggest that learning is often independent of courses and instructors, and that grades are not always indicative of what is learned in classes, suggesting that more could be done institutionally and in classrooms to better align what teachers intend to teach and what students expect to learn.",
+			"classification":"Excluded",
+			"attentionTest":"Strongly disagree",
+			"taskCode":"KAE15136"
+		}
+	]
+}
