@@ -2,6 +2,8 @@
 if (isset($_GET['task'])) {
     $taskContents = file_get_contents("data/task.json", true);
     $tpc = json_decode($taskContents, true);
+
+    $tpc = $tpc['abstracts'];
     $score = 0;
     ?>
 

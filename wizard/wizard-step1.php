@@ -114,27 +114,27 @@ if ( isset($_POST["action"])  && $_POST['action'] == "submitData") {
 					<div class="card-body">
 						For JSON format enter an array of objects with the following format:
 						<pre style="background-color: #efefef; padding: 20px; border-radius: 20px">
-							{
-								"abstracts":[
-								{
-									"idAbstract": 0,
-									"title": "title of abstract 01",
-									"fullAbstract":"Here comes the full abstract",
-									"ic1":0,
-									"ic2":0,
-									"decision": "Excluded"
-								},
-								{
-									"idAbstract": 1,
-									"title": "Title of abstract 01",		
-									"fullAbstract": "Here comes the full abstract",
-									"ic1":0,
-									"ic2":0,
-									"decision": "Excluded"
-								}
+{
+	"abstracts":[
+	{
+		"idAbstract": 0,
+		"title": "title of abstract 01",
+		"fullAbstract":"Here comes the full abstract",
+		"ic1":0,
+		"ic2":0,
+		"decision": "Excluded"
+	},
+	{
+		"idAbstract": 1,
+		"title": "Title of abstract 01",		
+		"fullAbstract": "Here comes the full abstract",
+		"ic1":0,
+		"ic2":0,
+		"decision": "Excluded"
+	}
 
-								]
-							}
+	]
+}
 						</pre>
 
 					</div>

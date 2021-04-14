@@ -24,10 +24,10 @@ $taskData = json_decode($tempTask, true);
 
 
 $userDownload = [];
-for($i = 0 ; $i < count($taskData) ; $i++){
+for($i = 0 ; $i < count($taskData['abstracts']) ; $i++){
 	$line = "";
-	$line = $line . $host["host"] . "?t=". $i . ",";
-	$line = $line .  $taskData[$i]["taskCode"] . "\n";
+	$line = $line . $host["host"] . "?task=". $i . ",";
+	$line = $line .  $taskData['abstracts'][$i]["taskCode"] . "\n";
 	array_push($userDownload, $line);
 }
 
@@ -36,9 +36,9 @@ for($s = 0; $s < count($userDownload); $s++){
 	$somar += strlen($userDownload[$s]) ;
 }
 
-var_dump($somar);
 if(isset($_POST['download'])){
 	if($_POST['download'] == "csv"){
+
 		header("Content-type: text/csv");
 		header("Content-Disposition: attachment; filename=CrowdSLR.csv");
 		header('Content-Length: ' . $somar);
@@ -93,13 +93,13 @@ if(isset($_POST['action']) && $_POST['action'] = "finish"){
 
 		<div class="card" style="padding:20px">
 			<?php
-			for ($i = 0 ; $i < count($taskData); $i++){
+			for ($i = 0 ; $i < count($taskData['abstracts']); $i++){
 				echo '<div class="card" style="margin:5px">';
 				echo "<div class='row' style='padding:10px;margin:5px'>"; 
 				echo '<div class="col-md-10">';
-				echo '<div style="font-weight:bold">' . $taskData[$i]["Title"].  '</div>';
-				echo '<div><a href="' . $host["host"] . "?t=". $i . '">'. $host["host"] . "?t=". $i . ' </a></div>';
-				echo '<div> Task code: ' . $taskData[$i]["taskCode"]. '</div>';
+				echo '<div style="font-weight:bold">' . $taskData['abstracts'][$i]["Title"].  '</div>';
+				echo '<div><a href="' . $host["host"] . "training.php?task=". $i . '">'. $host["host"] . "?task=". $i . ' </a></div>';
+				echo '<div> Task code: ' . $taskData['abstracts'][$i]["taskCode"]. '</div>';
 				
 				echo '</div>';
 				echo '</div>';

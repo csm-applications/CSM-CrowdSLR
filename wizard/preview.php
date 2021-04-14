@@ -63,14 +63,15 @@ $taskData = json_decode($tempTask, true);
 								</tr>
 							</thead>
 							<tbody>
-								<?php for ($i = 0 ; $i < count($trainingData); $i++){ ?>
+								<?php 
+								for ($i = 0 ; $i < count($trainingData['abstracts']); $i++){ ?>
 									<tr>
-										<td><?= $trainingData[$i]["idAbstract"] ?></td>
-										<td><?= $trainingData[$i]["title"] ?></td>
-										<td><?= $trainingData[$i]["fullAbstract"] ?></td>
-										<td><?= $trainingData[$i]["ic1"] ?></td>
-										<td><?= $trainingData[$i]["ic2"] ?></td>
-										<td><?= $trainingData[$i]["decision"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["idAbstract"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["title"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["fullAbstract"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["ic1"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["ic2"] ?></td>
+										<td><?= $trainingData['abstracts'][$i]["decision"] ?></td>
 									</tr>
 
 								<?php }?>
@@ -102,13 +103,13 @@ $taskData = json_decode($tempTask, true);
 								</tr>
 							</thead>
 							<tbody>
-								<?php for ($i = 0 ; $i < count($taskData); $i++){ ?>
+								<?php for ($i = 0 ; $i < count($taskData['abstracts']); $i++){ ?>
 									<tr>
-										<td><?= $taskData[$i]["idAbstract"] ?></td>
-										<td><?= $taskData[$i]["Title"] ?></td>
-										<td><?= $taskData[$i]["fullAbstract"] ?></td>
-										<td><?= $taskData[$i]["attentionTest"] ?></td>
-										<td><?= $taskData[$i]["taskCode"] ?></td>
+										<td><?= $taskData['abstracts'][$i]["idAbstract"] ?></td>
+										<td><?= $taskData['abstracts'][$i]["Title"] ?></td>
+										<td><?= $taskData['abstracts'][$i]["fullAbstract"] ?></td>
+										<td><?= $taskData['abstracts'][$i]["attentionTest"] ?></td>
+										<td><?= $taskData['abstracts'][$i]["taskCode"] ?></td>
 									</tr>
 								<?php }?>
 							</tbody>

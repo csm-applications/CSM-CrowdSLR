@@ -2,7 +2,7 @@
 if (isset($_GET['task'])) {
     $contents = file_get_contents("data/training.json", true);
     $parsedContent = json_decode($contents, true);
-
+    $parsedContent = $parsedContent['abstracts'];
     ?>
     <!DOCTYPE html>
 
@@ -22,15 +22,15 @@ if (isset($_GET['task'])) {
             <div>
                 <div class="row">
                     <div style="background-color: #efefef" class="card col-md-4">
-                        <span style="text-align: center; width: 100%" ><img style="padding: 5px" src="images/teacher.png" width="80"></span>
+                        <span style="text-align: center; width: 100%" ><img style="padding: 5px" src="../images/teacher.png" width="80"></span>
                         <p style="text-align: center; width: 100%" >Training</p>
                     </div>
                     <div class="card col-md-4">
-                        <span style="text-align: center; width: 100%"><img style="padding: 5px" src="images/document.png" width="80"></span>
+                        <span style="text-align: center; width: 100%"><img style="padding: 5px" src="../images/document.png" width="80"></span>
                         <p   style="text-align: center; width: 100%">Task</p>
                     </div>
                     <div class="card col-md-4">
-                        <span style="text-align: center; width: 100%"><img style="padding: 5px" src="images/checkmark.png" width="80"></span>
+                        <span style="text-align: center; width: 100%"><img style="padding: 5px" src="../images/checkmark.png" width="80"></span>
                         <p  style="text-align: center; width: 100%">Finish</p>
                     </div>
                 </div>
