@@ -1,37 +1,35 @@
-{
-	"abstracts":[
-		{
-			"idAbstract": 0,
-			"title": "An analysis of the gap between the knowledge and skills learned in academic software engineering course projects and those required in real: projects",
-			"fullAbstract":"This paper describes how the Software Engineering Body of Knowledge, (SWEBOK) can be used as a guide to assess and improve software engineering courses. A case study is presented in which the guide is applied to a typical undergraduate software engineering course. The lessons learned are presented which the authors believe are generalizable to comparable courses taught at many academic institutions. A novel approach involving largescale software project simulation is also presented a way to overcome some of the course deficiencies identified by the guide.",
-			"ic1":0,
-			"ic2":0,
-			"decision": "Excluded"
-		},
-		{
-			"idAbstract": 1,
-			"title": "Multi-Perspective Requirements Engineering Education with Focus on Industry Relevance",		
-			"fullAbstract": "Requirements engineering education should be based on best-practices and techniques, but it also needs to be anchored in state of the art research and the reality of industry practice. Preparing students for practice involves giving them an accurate view of reality as well as giving them the tools and the critical mindset needed to perform and improve on requirements engineering practices in industry. By utilizing experiences close to students it is possible to put abstract theory and practices in a context, as well as accomplish a deeper learning. In this article, we present a complete requirements engineering course aimed towards mature students.",
-			"ic1":0,
-			"ic2":0,
-			"decision": "Excluded"
-		},
-		{
-			"idAbstract": 2,
-			"title": "Desired Skills for Entry Level IS Positions: Identification and Assessment",		
-			"fullAbstract": "The present study sheds light on what employers believe to be important hard skills and soft skills for  entry-level information systems (IS) positions. Results from a survey of N = 73 U.S.-based and interna- tional employers suggest that soft skills are significantly more important than hard skills for entry-level IS  positions. The most important hard skills are Microsoft Office, database/data warehouse/SQL, and knowledge of security, while the most important soft skills are willingness to learn, critical thinking, and attitude. Employer characteristics (e.g., industry, size, location) do not affect the importance of hard skills and soft skills. Findings of this study are discussed in light of previous research. Results of this study can help to guide universities in IS curriculum development.",
-			"ic1":1,
-			"ic2":1,
-			"decision": "Included"
-		},
-		{
-			"idAbstract": 3,
-			"title": "Essence: A Framework to Help Bridge the Gap between Software Engineering Education and Industry Needs",		
-			"fullAbstract": "For many years, we have observed industry great efforts in defining higher workplace productivity. Mostly, these efforts are exploring the field with highlighting industrial expectations and issues. However, until the appropriate selection of the competent candidates, this remains far from being realistic. From this standpoint and recognizing the inadequacy of current traditional knowledge-based assessment systems in higher education to achieve performance visibility, we think we need to rethink how we design new assessment models that can respond to the corporate requirements of the 21st century and mirror the learners' competences. This concern has not been sufficiently investigated and only a minority provided some efforts to grant the fundamental models to assess Learners based on the standard required competences. Thus, the main output of this work is a semantic model and a framework specification for competence-based assessment to support the formal and informal learning competences visibility.", 
-			"ic1":1,
-			"ic2":1,
-			"decision": "Excluded"
-		}
-		
-	]
-}
+[
+	{
+		"idAbstract": 0,
+		"title": "An analysis of the gap between the knowledge and skills learned in academic software engineering course projects and those required in real: projects",
+		"fullAbstract":"This paper describes how the Software Engineering Body of Knowledge, (SWEBOK) can be used as a guide to assess and improve software engineering courses. A case study is presented in which the guide is applied to a typical undergraduate software engineering course. The lessons learned are presented which the authors believe are generalizable to comparable courses taught at many academic institutions. A novel approach involving largescale software project simulation is also presented a way to overcome some of the course deficiencies identified by the guide.",
+		"ic1":0,
+		"ic2":0,
+		"decision": "Excluded"
+	},
+	{
+		"idAbstract": 1,
+		"title": "Multi-Perspective Requirements Engineering Education with Focus on Industry Relevance",		
+		"fullAbstract": "Requirements engineering education should be based on best-practices and techniques, but it also needs to be anchored in state of the art research and the reality of industry practice. Preparing students for practice involves giving them an accurate view of reality as well as giving them the tools and the critical mindset needed to perform and improve on requirements engineering practices in industry. By utilizing experiences close to students it is possible to put abstract theory and practices in a context, as well as accomplish a deeper learning. In this article, we present a complete requirements engineering course aimed towards mature students.",
+		"ic1":0,
+		"ic2":0,
+		"decision": "Excluded"
+	},
+	{
+		"idAbstract": 2,
+		"title": "Desired Skills for Entry Level IS Positions: Identification and Assessment",		
+		"fullAbstract": "The present study sheds light on what employers believe to be important hard skills and soft skills for  entry-level information systems (IS) positions. Results from a survey of N = 73 U.S.-based and interna- tional employers suggest that soft skills are significantly more important than hard skills for entry-level IS  positions. The most important hard skills are Microsoft Office, database/data warehouse/SQL, and knowledge of security, while the most important soft skills are willingness to learn, critical thinking, and attitude. Employer characteristics (e.g., industry, size, location) do not affect the importance of hard skills and soft skills. Findings of this study are discussed in light of previous research. Results of this study can help to guide universities in IS curriculum development.",
+		"ic1":1,
+		"ic2":1,
+		"decision": "Included"
+	},
+	{
+		"idAbstract": 3,
+		"title": "Essence: A Framework to Help Bridge the Gap between Software Engineering Education and Industry Needs",		
+		"fullAbstract": "For many years, we have observed industry great efforts in defining higher workplace productivity. Mostly, these efforts are exploring the field with highlighting industrial expectations and issues. However, until the appropriate selection of the competent candidates, this remains far from being realistic. From this standpoint and recognizing the inadequacy of current traditional knowledge-based assessment systems in higher education to achieve performance visibility, we think we need to rethink how we design new assessment models that can respond to the corporate requirements of the 21st century and mirror the learners' competences. This concern has not been sufficiently investigated and only a minority provided some efforts to grant the fundamental models to assess Learners based on the standard required competences. Thus, the main output of this work is a semantic model and a framework specification for competence-based assessment to support the formal and informal learning competences visibility.", 
+		"ic1":1,
+		"ic2":1,
+		"decision": "Excluded"
+	}
+	
+]

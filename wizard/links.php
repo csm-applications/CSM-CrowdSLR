@@ -24,10 +24,10 @@ $taskData = json_decode($tempTask, true);
 
 
 $userDownload = [];
-for($i = 0 ; $i < count($taskData['abstracts']) ; $i++){
+for($i = 0 ; $i < count($taskData) ; $i++){
 	$line = "";
 	$line = $line . $host["host"] . "?task=". $i . ",";
-	$line = $line .  $taskData['abstracts'][$i]["taskCode"] . "\n";
+	$line = $line .  $taskData[$i]["taskCode"] . "\n";
 	array_push($userDownload, $line);
 }
 
@@ -93,13 +93,13 @@ if(isset($_POST['action']) && $_POST['action'] = "finish"){
 
 		<div class="card" style="padding:20px">
 			<?php
-			for ($i = 0 ; $i < count($taskData['abstracts']); $i++){
+			for ($i = 0 ; $i < count($taskData); $i++){
 				echo '<div class="card" style="margin:5px">';
 				echo "<div class='row' style='padding:10px;margin:5px'>"; 
 				echo '<div class="col-md-10">';
-				echo '<div style="font-weight:bold">' . $taskData['abstracts'][$i]["Title"].  '</div>';
-				echo '<div><a href="' . $host["host"] . "training.php?task=". $i . '">'. $host["host"] . "?task=". $i . ' </a></div>';
-				echo '<div> Task code: ' . $taskData['abstracts'][$i]["taskCode"]. '</div>';
+				echo '<div style="font-weight:bold">' . $taskData[$i]["Title"].  '</div>';
+				echo '<div><a href="' . $host["host"] . "/training.php?task=". $i . '">'. $host["host"] . "/training.php/?task=". $i . ' </a></div>';
+				echo '<div> Task code: ' . $taskData[$i]["taskCode"]. '</div>';
 				
 				echo '</div>';
 				echo '</div>';

@@ -114,8 +114,7 @@ if ( isset($_POST["action"])  && $_POST['action'] == "submitData") {
 					<div class="card-body">
 						For JSON format enter an array of objects with the following format:
 						<pre style="background-color: #efefef; padding: 20px; border-radius: 20px">
-{
-	"abstracts":[
+[
 	{
 		"idAbstract": 0,
 		"title": "title of abstract 01",
@@ -133,8 +132,8 @@ if ( isset($_POST["action"])  && $_POST['action'] == "submitData") {
 		"decision": "Excluded"
 	}
 
-	]
-}
+]
+
 						</pre>
 
 					</div>
