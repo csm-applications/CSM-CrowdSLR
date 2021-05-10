@@ -8,7 +8,7 @@ Abstract
 ## Demo
 
 For more details and a demo of this running project access this video: 
-https://www.youtube.com/watch?v=xxxxxxxx
+https://youtu.be/t5HXQcmH3uc
 
 
 ## Roadmap
@@ -59,7 +59,5 @@ Results are also considered sensitive data, so it is protected by the administra
 ### Step 04: Enjoy
 
 This project is OpenSource and still needs several contributions to allow the use of this tool in different scenarios. If you have identified issues that can be improved, leave them in the Issues section.
-
-You can still contact me through github or my website: https://www.computersciencemaster.com.br
 
 
