@@ -18,7 +18,8 @@
 
             <p>Welcome to the tool to support the selection of primary studies using crowdsource. This project was created in order to help researchers to select primary studies using crowdsource platforms.</p>
 
-            <p>This software is free code and can be adapted to the researcher's needs. It is under license XXX and allows it to be used freely, however, when it is modified and made available, it is necessary to inform that its origin.</p>
+            <p>This software is free code and can be adapted to the researcher's needs. It is under license Apache 2.0 and allows it to be used freely, however, when it is modified and made available, it is necessary to inform that its origin.</p>
+            <p>Learn more about this license <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)"> here </a></p>
 
         </div> 
 
