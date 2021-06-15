@@ -7,6 +7,9 @@ Systematic Literature Reviews (SLR) have been used by Software Engineering (SE) 
 
 ## Demo
 
+Access our live demo:
+http://demos.computersciencemaster.com.br/crowdslr/training.php/?task=0
+
 For more details and a demo of this running project access this video: 
 https://youtu.be/t5HXQcmH3uc
 
