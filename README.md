@@ -52,7 +52,7 @@ This wizard has 4 stages:
 - (3) previewing the data, 
 - (4) Download the links for submission to the crowdsource platform.
 
-### step 04: collecting the results
+### Step 04: collecting the results
 
 After submitting the form to the crowdsource platform, workers will perform the tasks and the system will store the responses. 
 You can follow the progress and collect the final results using the file /results/overview.php. There is a link to these results on the home page.
