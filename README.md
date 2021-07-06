@@ -47,10 +47,10 @@ In addition, the config.json file was created and contains the value "host". Thi
 After setting the administrator passwords, go to the CrowdSLR homepage and access the configuration wizard.
 
 This wizard has 4 stages: 
-(1) configuring the set of studies used for training, 
-(2) configuring the set of studies that will be classified, 
-(3) previewing the data, 
-(4) Download the links for submission to the crowdsource platform.
+- (1) configuring the set of studies used for training, 
+- (2) configuring the set of studies that will be classified, 
+- (3) previewing the data, 
+- (4) Download the links for submission to the crowdsource platform.
 
 ### step 04: collecting the results
 
