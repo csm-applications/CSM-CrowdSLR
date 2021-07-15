@@ -112,7 +112,7 @@ if(isset($_POST['action']) && $_POST['action'] = "finish"){
 		<div class="card" style="margin-top: 50px; padding:20px">
 			<h2 >Finish setup</h2>
 
-			<form method="POST">
+			<form action="/crowdslr/training.php/?task=0" method="POST">
 				<input type="hidden" name="action" value="finish">
 				<input type="submit" value="Submit" name="Submit Data" class="btn btn-primary">
 			</form>

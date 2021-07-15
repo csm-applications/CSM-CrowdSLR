@@ -110,7 +110,7 @@ if (isset($_GET['task'])) {
                         </div>
 
 
-                        <form action="/evaluation.php?task=<?= $_GET['task'] ?>" method="POST">
+                        <form action="/crowdslr/evaluation.php?task=<?= $_GET['task'] ?>" method="POST">
 
                             <br><hr><br>
                             <input type="hidden" name="q0ic1" value="<?= $_POST['q0ic1'] ?>"/>

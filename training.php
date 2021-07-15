@@ -42,7 +42,7 @@ if (isset($_GET['task'])) {
             <div class="jumbotron" style="background:white	; text-align: center" >
                 <h1 class="display-4">Let's start the training phase!</h1>
             </div>
-            <form action="/task.php?task=<?= $_GET['task'] ?>" method="POST">
+            <form action="/crowdslr/task.php?task=<?= $_GET['task'] ?>" method="POST">
                 <?php foreach ($parsedContent as $abs) { ?>
 
                     <br><hr><br>

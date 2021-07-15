@@ -18,6 +18,7 @@ $trainingData = json_decode($tempTraining, true);
 $tempTask = file_get_contents("../data/task.json", true);
 $taskData = json_decode($tempTask, true);
 
+
 ?>
 
 
