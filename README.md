@@ -3,9 +3,12 @@ This project was published in the Brazilian Software Conference in the Tools sec
 
 ## Brief Overview
 
-Abstract 
+Systematic Literature Reviews (SLR) have been used by Software Engineering (SE) community to produce reliable scientific evidence. An SLR process can be exhaustive and time-consuming, therefore, many approaches have been proposed to reduce time and efforts during the SLR conduction process. Although the SLR process is amenable to automation, nowadays full automation is not yet possible. An alternative to reduce time and efforts in SLR conduction is the use of crowdsourcing. However, there is no crowdsourcing tool to support a crowd-based SLR process. In this context, we present CrowdSLR, a tool to support the application of crowdsourcing in SLR during the selection of primary studies. Furthermore, we present its main features, potential users, and the architecture that was implemented to allow researchers to adopt this tool. The results of the CrowdSLR application indicate that the tool is able to provide the use crowdsourcing during the SLR selection process. The results that the proposed tool, indeed, show a significant improvement in the crowdsourcing approach in terms of time and effort to facilitate the SLR selection activity. 
 
 ## Demo
+
+Access our live demo:
+http://demos.computersciencemaster.com.br/crowdslr/training.php/?task=0
 
 For more details and a demo of this running project access this video: 
 https://youtu.be/t5HXQcmH3uc
@@ -44,12 +47,12 @@ In addition, the config.json file was created and contains the value "host". Thi
 After setting the administrator passwords, go to the CrowdSLR homepage and access the configuration wizard.
 
 This wizard has 4 stages: 
-(1) configuring the set of studies used for training, 
-(2) configuring the set of studies that will be classified, 
-(3) previewing the data, 
-(4) Download the links for submission to the crowdsource platform.
+- (1) configuring the set of studies used for training, 
+- (2) configuring the set of studies that will be classified, 
+- (3) previewing the data, 
+- (4) Download the links for submission to the crowdsource platform.
 
-### step 04: collecting the results
+### Step 04: collecting the results
 
 After submitting the form to the crowdsource platform, workers will perform the tasks and the system will store the responses. 
 You can follow the progress and collect the final results using the file /results/overview.php. There is a link to these results on the home page.
