@@ -11,7 +11,7 @@ Access our live demo:
 http://demos.computersciencemaster.com.br/crowdslr/training.php/?task=0
 
 For more details and a demo of this running project access this video: 
-https://youtu.be/t5HXQcmH3uc
+https://www.youtube.com/watch?v=UoQTC-R-Mv0
 
 
 ## Roadmap
