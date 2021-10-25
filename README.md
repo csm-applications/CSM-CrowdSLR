@@ -11,7 +11,7 @@ Access our live demo:
 http://demos.computersciencemaster.com.br/crowdslr/training.php/?task=0
 https://www.youtube.com/watch?v=
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UoQTC-R-Mv0/0.jpg)](https://www.youtube.com/watch?v=UoQTC-R-Mv0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/l-a4-mI0lXg/0.jpg)](https://www.youtube.com/watch?v=l-a4-mI0lXg)
 
 ## Roadmap
 
